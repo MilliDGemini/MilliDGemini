@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @MilliDGemini
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning to code
--
-- 
+- 👀 I’m learing to Coding
 
 <!---
 MilliDGemini/MilliDGemini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
